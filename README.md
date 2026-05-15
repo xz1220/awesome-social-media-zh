@@ -20,7 +20,9 @@
 
 ## 资源区
 
-资源会在后续收集、筛选和确认后加入。现阶段先保留项目定位、收录标准和贡献规则，不预先填充未经讨论的资源或分类。
+### 视觉生成与设计资产
+
+- [canvas-design](https://github.com/anthropics/skills/tree/main/skills/canvas-design) - Claude 官方 Agent Skill，用于生成设计哲学驱动的单页 PNG/PDF 视觉资产，适合个人 IP 封面、海报和栏目主视觉实验；中文平台尺寸适配、稳定出图质量和商用授权边界仍需实测；观察日期：2026-05-11。
 
 ## 收录标准
 
