@@ -20,7 +20,11 @@
 
 ## 资源区
 
-资源会在后续收集、筛选和确认后加入。现阶段先保留项目定位、收录标准和贡献规则，不预先填充未经讨论的资源或分类。
+按 AI 内容创作链路组织。当前阶段仅收录已实际用过、明确能接入某一步工作流的资源。
+
+### 生成 / 多模态产出
+
+- [huashu-design](https://github.com/alchaincyf/huashu-design) - 跨 Agent 的 Markdown skill（Claude Code、Codex、Cursor 等），用对话生成高保真 HTML 原型、幻灯片、MP4/GIF 动画、数据可视化，附带 20 种设计哲学方向建议和 5 维度专家评审，适合需要快速产出多模态视觉素材的 AI Native 创作者；产物以 HTML 为载体，发布到中文社媒前仍需自行截图/导出/排版；安装：`npx skills add alchaincyf/huashu-design`；观察日期：2026-05-15。
 
 ## 收录标准
 
